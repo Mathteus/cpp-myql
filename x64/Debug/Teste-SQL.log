@@ -1,2 +1,4 @@
-﻿  main.cpp
-  Teste-SQL.vcxproj -> C:\Users\Shadow\source\repos\Teste-SQL\x64\Debug\Teste-SQL.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Teste-SQL.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  main.cpp
+C:\Users\Shadow\source\repos\CPP-MySQL\menu.h(57,50): warning C4101: 'certo': variável local não referenciada
+  Teste-SQL.vcxproj -> C:\Users\Shadow\source\repos\CPP-MySQL\x64\Debug\CPP-MySQL.exe

@@ -1,1 +1,2 @@
 C:\Users\Shadow\source\repos\Teste-SQL\x64\Debug\Teste-SQL.exe
+C:\Users\Shadow\source\repos\CPP-MySQL\x64\Debug\CPP-MySQL.exe
